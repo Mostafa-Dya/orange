@@ -1,0 +1,41 @@
+
+/*
+Colors
+Light orange: #fdd835
+Medium orange: #ffb300
+Dark orange: #fb8c00
+*/
+
+$color-primary: #ffb300;
+$color-primary-light: #fdd835;
+$color-primary-dark: #fb8c00;
+
+$color-danger: rgb(248, 31, 31);
+$color-success: rgb(68, 248, 68);
+
+
+$color-secondary-light: #7ed567;
+$color-secondary-dark: #28b485;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+
+$color-white: #fff;
+$color-black: #000;
+
+// FONT SIZE
+$default-font-size: 1.6rem;
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
